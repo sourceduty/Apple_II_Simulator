@@ -46,7 +46,7 @@ Miscellaneous:
 
 ***
 
-> Alex: *"I almost simulated an entire vintage Apple computer from 1977 with one custom GPT in 2024."*
+> Alex: *"I almost simulated an entire vintage Apple computer from 1977 with one custom GPT in 2023."*
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

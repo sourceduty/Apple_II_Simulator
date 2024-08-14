@@ -48,5 +48,9 @@ Miscellaneous:
 
 > Alex: *"I almost simulated an entire vintage Apple computer from 1977 with one custom GPT in 2023."*
 
+#
+
+![Apples iFace](https://github.com/user-attachments/assets/bcd00695-b887-49af-9ee8-bb776eb6b394)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

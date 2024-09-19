@@ -50,7 +50,7 @@ Miscellaneous:
 
 #
 
-![Nerd Alert](https://github.com/user-attachments/assets/4110292c-8771-4927-8e44-312b213c1460)
+![Apple II](https://github.com/user-attachments/assets/d7569a39-a3a7-4f0e-b143-8278153b2ee8)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
